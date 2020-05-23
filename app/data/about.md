@@ -7,10 +7,7 @@ I added this page because so many people complained that my site was just a resu
 #### Currently
 I am currently pursuing a Master's degree at [Concordia Univeristy](https://www.concordia.ca/) where I work on creating tools and logics for model checking Multi-Agent Systems (MASs), under supervision of [Dr. Bentahar](https://users.encs.concordia.ca/~bentahar/). In addition to research, the biggest part of my work has been as a java developer, creating tools for model checking MASs or working on model-based automatic test generation.
 <br><br>
-
-<b>I will defend my research thesis by the end of june 2020, and expect to be available for hire by July 2020. I am particularly interested in a position as a Java Developer in the Montreal area, but what I'm really looking for is an awesome team and a motivating position.</b>
-
-
+I will defend my research thesis by the end of june 2020, and expect to be available for hire by July 2020. I am particularly interested in a position as a Java Developer in the Montreal area, but what I'm really looking for is an awesome team and a motivating position.
 <br><br>
 I am also available to consult on interesting projects. I am particularly interested in education, avionics systems, and finance. I may even be available for pro-bono work depending on the project and the time commitment.  If you would like to arrange a meeting, I am based in Montreal but travel to Morocco (my home country) frequently.
 <br><br>
