@@ -56,7 +56,7 @@ I am also available to consult on interesting projects. I am particularly intere
 
 - At 24, our team won 2nd place in the [Moroccan Collegiate Programming Contest](https://icpc.baylor.edu/regionals/finder/MCPC-2014), but couldn't make it to the [AACPC](http://acpc.global/) again because of the instability in the region back in the arab spring. We were heartbroken especially since the ICPC finals were organized in Morocco.
 
-- At 24, I also became interested in formal verification in general, and model checking in general. I ended up with a research internship in Canada working on MASs a year later, published my first research [paper](https://link.springer.com/chapter/10.1007/978-3-319-25524-8_37), and joined a Master's degree under the same supervisor a year later. The rest is history as they say.
+- At 24, I also became interested in formal verification in general, and model checking specifically. I ended up with a research internship in Canada working on MASs a year later, published my first research [paper](https://link.springer.com/chapter/10.1007/978-3-319-25524-8_37), and joined a Master's degree under the same supervisor a year later. The rest is history as they say.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 
@@ -67,7 +67,7 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - Snow
 - [Books](https://www.goodreads.com/user/show/20744969-amine)
 - [Good design](/)
-- [Photography](https://www.facebook.com/people/Amine-Laarej/100003843007558)
+- [Photography](https://www.facebook.com/amine.laarej)
 
 #### Travel / Geography
 
@@ -97,7 +97,7 @@ You can ask me in person for other stories that I'm afraid to share with the int
 
 - My favorite book series is [Ender’s Saga by Orson Scott Card](https://www.goodreads.com/list/show/42643.ENDER_S_SAGA_IN_ORDER). Even though [Harry Potter](/) has a special place in my heart.
 
-- I sketch when I'm really bored, you can find some that I've published over the years in my fb account.
+- I sketch when I'm really bored, you can find some that I've published over the years in my [fb](https://www.facebook.com/amine.laarej) account.
 
 - I've been trying to learn German for a couple of years now, I just can't seem to advance without someone to practice with. And a trip to Germany isn't in the cards yet.
 
