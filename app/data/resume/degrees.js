@@ -6,7 +6,7 @@ const degrees = [
     year: 2020,
   }, {
     school: 'INPT',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
+    degree: 'B.S. Computer Engineering (Génie Logiciel et Modelisation des Systèmes d\'Information)',
     link: 'http://www.inpt.ac.ma/en',
     year: 2015,
   },

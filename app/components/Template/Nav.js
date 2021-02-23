@@ -10,7 +10,7 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${BASE_PATH}/images/Test2.png`} alt=""/>
+        <img src={`${BASE_PATH}/images/Amine.png`} alt=""/>
       </Link>
       <header>
         <h2>Amine Laarej</h2>
@@ -21,11 +21,11 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Amine. I like building things.
-        I am currently a Master's student at <a href="https://www.concordia.ca/ginacody/info-systems-eng.html">Concordia University</a>. I am
-          pursuing a thesis option Master's degree in the field of Multi-Agent Systems. I also work on Automatic Model-Based test-generation, and Intelligent systems.
+        I have recently completed a Master's degree in <a href = "https://www.concordia.ca/academics/graduate/quality-systems-masc.html">Quality Systems Engineering</a> from <a href="https://www.concordia.ca/ginacody/info-systems-eng.html">Concordia University</a>.<br/><br/>
+        My <a href={"https://dblp.org/pid/169/6098.html"}>research</a> was mainly in model checking Multi-agent Systems and Automatic Model-based test generation for safety critical systems.
       </p>
         <p>
-            <b>I expect to graduate by July 2020.</b>
+            <b>I am currently looking for a Java Developer position in the Montreal Area.</b>
         </p>
       <ul className="actions">
         <li>

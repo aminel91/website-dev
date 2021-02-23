@@ -13,8 +13,8 @@ const Index = () => (
         </div>
       </header>
       <p>Welcome to my website.</p>
-      <p><b>I will defend my research thesis by the end of june 2020, and expect to be
-        available for hire by July 2020. I am particularly interested in a position as
+      <p><b>I have just completed my Master's degree, and am now available for hire.<br/><br/>
+      I am particularly interested in a position as
         a Java Developer in the Montreal area, but what I'm really looking for is an awesome team and a motivating position.</b></p>
       <p> Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
